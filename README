@@ -1,0 +1,23 @@
+A Simple Clone of Subway Surfers
+
+How to run:
+1.  Open the src folder.
+2.  Run "index.html" with a browser.
+
+Controls:
+1.  Left and Right keys to switch lanes.
+2.  Spacebar to jump.
+3.  Down key to duck and slide.
+4.  V key to switch to grayscale mode.
+
+Elements:
+1.  We control a surfer whose trying to escape a policeman.
+2.  Avoid all obstacles like barricades, cargo, traffic lights.
+3.  Collect powerups including:
+        1.1.    Jump Powerup: Increases the jump height.
+        1.2.    Jetpack: Makes the player fly.
+        1.3.    Magnet: Attracts coins from far away.
+    All powerups last for 10 seconds in the game.
+4.  On hitting cargo or barricades the player falls down and is caught immediately.
+    On hitting a traffic light the player is slowed down. If the player is slowed down multiple times within short  intervals then the policeman is able to catch up to the player and catch him.
+5.  Goal is to reach the safe location safe and sound.
